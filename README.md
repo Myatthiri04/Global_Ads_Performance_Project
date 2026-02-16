@@ -68,6 +68,6 @@ Revenue is primarly driven by "user engagement (clicks)" rather than raw impress
 -Data cleaning and transformation in R.
 -Exploratory Data Analysis (EDA).
 -Multiple linear Regression. 
--Model interpretation (R-squared, p-values, coefficients)/
+-Model interpretation (R-squared, p-values, coefficients)
 -Tableau data visualization. 
 
