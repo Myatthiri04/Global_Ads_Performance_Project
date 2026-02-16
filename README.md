@@ -51,7 +51,7 @@ Revenue is primarly driven by "user engagement (clicks)" rather than raw impress
 ##ROAS Predicitve Modelling
 -Built regression model to predict **Retrun on Ad Spend (ROAS)**
 -Actual vs Predicted ROAS shows strong alignment,indicating predictive consistency.
-<img width="912" height="890" alt="image" src="https://github.com/user-attachments/assets/e8c24f40-5c60-4c0b-a512-31059abf51ff" />
+<img width="912" height="890" alt="image" src="https://github.com/user-attachments/assets/7783fbcc-c69e-443b-bf3f-c15db05b316c" />
 
 **Business Implications**
 -Historical campaign data can forecast advertisig efficiency. 
